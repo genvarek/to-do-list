@@ -1,0 +1,25 @@
+{
+    "whatcha_doo": [
+      {
+        "Monday": 1,
+        "Morning": "get dressed",
+        "Afternoon": "have lunch",
+        "Evening": "do business",
+        "Night": "Go to bed"
+      },
+      {
+        "Tuesday": 2,
+        "Morning": "have a shower",
+        "Afternoon": "do business",
+        "Evening": "walk",
+        "Night": "Go to bed"
+      },
+      {
+        "Wednesday": 3,
+        "Morning": "have breakfast",
+        "Afternoon": "do business",
+        "Evening": "go shopping",
+        "Night": "work late"
+      }
+    ]
+  }

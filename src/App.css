@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+
+.Wrapper {
+  border: 5px solid black;
+  margin: 50px 100px;
+  display: inline-block;
+  width: 500px;
+  padding: 30px;
+}
+
+.TodoInput {
+  margin-top: 400px;
+  margin-bottom: 10px;
+  display: inline-block;
+  padding: 50px;
+}
